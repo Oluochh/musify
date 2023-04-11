@@ -14,8 +14,8 @@ const data = ref([
         artist: "njerae ",
         location: "Kenya, Nairobi",
         title: "Anayefaa",
-        url: '',
-        Image: ""
+        url: 'https://www.youtube.com/watch?v=BC8-x14PHXM',
+        Image: "https://source.boomplaymusic.com/group10/M00/04/03/20980aa9a2d04ef9898079a94a7c972c.jpg"
     },
     {
         date: 13,
@@ -24,8 +24,8 @@ const data = ref([
         artist: " okello max ",
         location: "Kenya, Nairobi",
         title: "Aboriti",
-        url: '',
-        Image: ""
+        url: 'https://www.youtube.com/watch?v=s6HghsZ4SLA',
+        Image: "https://www.kenyanvibe.com/wp-content/uploads/2022/12/okellomax_1671088732941265-819x1024.jpg"
     }
 ]);
 
