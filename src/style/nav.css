@@ -1,0 +1,83 @@
+@media screen {
+
+    .nav-container {
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .nav-wrapper {
+        width: 100%;
+        display: flex;
+        padding: 15px;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
+    
+    }
+    
+    .nav-d {
+        gap: 20px;
+        display: none;
+        flex-direction: row;
+        
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .menu {
+        cursor: pointer;
+    }
+
+    .icon-menu {
+        height: 34px;
+        width: 34px;
+    }
+
+    .social-c {
+        display: none;
+    }
+    
+    .nav-link {
+        outline: none;
+        font-size: .7rem;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: var(--primary-color);
+    
+    }
+    
+    .router-link-active {
+        color: var(--secondary-color);
+    }
+    
+    .icon-menu {
+        fill: var(--primary-color);
+    }
+}
+
+
+/* using it as global style for larger devices  */
+@media only screen and (min-width: 48em) {
+
+    .nav-wrapper {
+        padding: 0;
+        justify-content: space-around;
+    }
+    .nav-d {
+        display: flex;
+    }
+
+    .icon-menu {
+        height: 28px;
+        width: 28px;
+    }
+
+    .social-c {
+        display: flex;
+    }
+}
+
