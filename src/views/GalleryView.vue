@@ -20,63 +20,7 @@ const showMore = () => {
       <div class="gallery-wrapper">
         <div class="gallery-info">
           <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-              type="video/mp4" />
-          </video>
-          <span>Genre</span>
-          <h3>Song title</h3>
-        </div>
-        <div class="gallery-info">
-          <video class="gallery-cover" controls>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            <source src="https://www.youtube.com/watch?v=6Pps4Y_CnrM"
               type="video/mp4" />
           </video>
           <span>Genre</span>
